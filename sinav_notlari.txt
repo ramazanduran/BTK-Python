@@ -1,0 +1,4 @@
+Ali Yavuz:50,70,80
+Mehmet Yılmaz:90,80,85
+Deniz Efe:60,80,70
+Ramazan Duran:100,90,80
